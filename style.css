@@ -1,0 +1,14 @@
+#container,h1{
+    text-align: center;
+}
+h1{
+    font-family: Courier, monospace;
+    font-size: 50px;
+}
+a{
+    font-size: large;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: goldenrod;
+}
+
